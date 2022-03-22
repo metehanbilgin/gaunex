@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Metehan Bilgin. 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Java , C# and Python
 - 🌱 I’m currently learning Java , C# and Python
 - 💞️ I’m looking to collaborate on Cybersecurity 
 - 📫 How to reach me metehanbilgin16@gmail.com
